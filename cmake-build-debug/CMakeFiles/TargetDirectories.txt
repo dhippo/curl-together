@@ -1,0 +1,3 @@
+/Users/macbook/CLionProjects/together-viper/cmake-build-debug/CMakeFiles/together_viper.dir
+/Users/macbook/CLionProjects/together-viper/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/macbook/CLionProjects/together-viper/cmake-build-debug/CMakeFiles/rebuild_cache.dir
