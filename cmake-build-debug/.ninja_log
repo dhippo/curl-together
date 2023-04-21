@@ -1,0 +1,4 @@
+# ninja log v5
+1	94	1682090003498125660	build.ninja	11184f7bdae2df60
+0	107	1682090003618378867	CMakeFiles/bot_C_together.dir/main.c.o	ad4df8daa495eec9
+108	181	1682090003693212470	bot_C_together	a40e18802fdd0aa6
